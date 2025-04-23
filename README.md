@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-For over a decade I was a freelancer musician and teacher. I can never remember not playing the drums. In the small suburb of Athens where I was born I’d play drums on the chairs at my parents’ home using the knives from my folks’ dinnerware set as drumsticks, gutting the furniture in my effort to play the drums. In 2010 I started web design and over the years I became developer.
+For over a decade I was a freelancer musician and teacher. I can never remember not playing the drums. In the small suburb of Athens where I was born I’d play drums on the chairs at my parents’ home using the knives from my folks’ dinnerware set as drumsticks, gutting the furniture in my effort to play the drums. In 2010 I started learning web design and over the years I became developer.
 
 * 🌍  I'm based in Athens, Greece
 * ✉️  You can contact me at [katzalidiskostas@gmail.com](mailto:katzalidiskostas@gmail.com)
